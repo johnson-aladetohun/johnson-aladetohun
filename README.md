@@ -18,19 +18,32 @@ I build, maintain and troubleshoot business websites and web applications. My wo
 - **Website operations:** migrations, backups, restores, updates and incident resolution
 - **Additional tools:** REST APIs, payment integrations, Git and CMS administration
 
+## Portfolio
+
+- **18 Web Project Case Studies:** https://github.com/johnson-aladetohun/web-project-case-studies
+- **WordPress & Hosting Support Playbook:** https://github.com/johnson-aladetohun/web-project-case-studies/tree/main/wordpress-hosting-support-playbook
+
 ## Selected project experience
 
-### HOG Healthcare LMS
+### HOG Healthcare
 
-Healthcare learning portal built with PHP, MySQL and JavaScript, including learner dashboards, administrative tools and certificate workflows.
+Healthcare website and learning portal with PHP-based learner dashboards, administrative tools and certificate workflows.
 
 ### Triply Travels Platform
 
 Travel-services platform built with PHP and SQLite, with customer, agent and administrator roles, messaging and CMS tools.
 
+### Listora
+
+Property marketplace and property-management application with role-based workspaces, verification, moderation and structured listing workflows.
+
+### Kobiza
+
+Multi-tenant commerce and business-management SaaS covering POS, inventory, invoicing, payments, CRM and operational reporting.
+
 ### Rudder Sports Management
 
-Sports-management website with PHP-powered administration, content management, media and gallery tools, a blog and contact workflows.
+Sports-management website with PHP-powered administration, content management, media/gallery tools, blog and contact workflows.
 
 ## What I can help with
 
@@ -47,4 +60,3 @@ I am immediately available for WordPress development, PHP web development, websi
 ## Contact
 
 - Email: [johnson@iworksgt.com](mailto:johnson@iworksgt.com)
-
